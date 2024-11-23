@@ -81,7 +81,7 @@ Certifique-se de ter as ferramentas abaixo instaladas no seu sistema:
 
 ---
 
-## **Rodando o Servidor**
+## **Rodando os testes**
 1. Rodando o unit tests:
 ```bash
    python manage.py test
