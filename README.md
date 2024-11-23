@@ -81,6 +81,12 @@ Certifique-se de ter as ferramentas abaixo instaladas no seu sistema:
 
 ---
 
+## **Rodando o Servidor**
+1. Rodando o unit tests:
+```bash
+   python manage.py test
+   ```
+
 ## **Endpoints**
 ### Exemplos de rotas configuradas:
 - **Listar estação**: `GET /api/station/`
